@@ -15,7 +15,7 @@ const Stack = createStackNavigator();
 
 export function LabStack() {
   return (
-    <Stack.Navigator initialRouteName='Home'>
+    <Stack.Navigator screenOptions={{headerShown: false}} initialRouteName='Home'>
       <Stack.Screen name="Home" component={Home} />
       <Stack.Screen name="Detail" component={Detail} />
     </Stack.Navigator>
