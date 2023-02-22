@@ -1,0 +1,17 @@
+[
+    {
+        "title": "expo & react native - getting started",
+        "description": "a quick guide to get started with expo and react native",
+        "rating": 5
+    },
+    {
+        "title": "navigation & typescript - the real deal",
+        "description": "first frustrations of the semester. a good foundation for the frustrations to come...",
+        "rating": 1
+    },
+    {
+        "title": "styling & animations - easy peasy",
+        "description": " styling and animations in react native is a breeze. just like css",
+        "rating": 3
+    }
+]
